@@ -1,6 +1,6 @@
 # SpanADE: Transformer-based ADE Extraction from Noisy Text
 
-This project compares transformer models (BERT, BioBERT, ClinicalBERT, SpanBERT) for adverse drug event (ADE) extraction using the CADEC corpus. It emphasizes span-level annotation and preprocessing strategies (split vs merge).
+This project compares transformer models (BERT, BioBERT, ClinicalBERT, SpanBERT) for adverse drug event (ADE) extraction using the CADEC corpus(https://www.sciencedirect.com/science/article/pii/S1532046415000532). It emphasizes span-level annotation and preprocessing strategies (split vs merge).
 
 - 📄 `main.ipynb`: The complete experiment and analysis
 - 📝 `report.pdf`: Final report
